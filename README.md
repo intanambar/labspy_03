@@ -23,6 +23,12 @@
 ## Program Untuk Menampilkan n Bilangan Acak Yang Lebih Kecil Dari 0.5
 ![Gambar3](gambar3.png)
 
+### Algoritma program
+1. Masukan Jumlah N pengulangan
+2. Proses pengulangan sesuai jumlah pengulangan yang dinputkan
+3. Tampilkan pengulangan dengan nilai di bawah 0.5
+4. Selesai
+
 ### Penjelasan alur program
 
 1. print("Tampilkan n bilangan acak yang lebih kecil dari 0.5") : - adalah perintah untuk menampilkan judulnya
@@ -103,3 +109,6 @@
 6. For i in range (len (y)) Print (“laba bulan ke-“,i+1,”sebesar:” ,y[i]) untuk perulangan data dengan isi data yaitu Ydengan menampilkan urutan laba perbulan sesuai range yang di tentukan dengan hasil ke untukan yang di inpput dari data Y
 
 6. Z= (a+b+c+d+e+f+g+h) Print (“jumlah laba selama 8 bulan adalah:”) Z berisi data penjumlahan data angka yang ada didalam kode a,b,c,d,e,f,g,h yang akan di tampilakan atau dicetak di jumlah laba selama 8 bulan
+
+### Berikut tampilan program setelah dijalankan
+![Gambar10](gambar10.png)
