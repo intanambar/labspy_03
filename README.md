@@ -33,7 +33,12 @@
 
 1. print("Tampilkan n bilangan acak yang lebih kecil dari 0.5") : - adalah perintah untuk menampilkan judulnya
 2. num = int(input("Masukkan jumlah n: ")) - adalah perintah untuk menginput nilai n tersebut
-3.
+3. from random import random : -untuk memanggil nilai acak antara 0 dan 1
+4. while x <= num : -untuk program pengulangan tak hingga dengan limit  pengulangan x <= num
+5. a = random : -nilai acak antara 0 dan 1
+6. if a < 0.5 print (a) : - Jika a lebih kecil dari 0.5 maka tampilkan nilai a
+7. x =+ 1 : maka nilai x bertambah 1
+
 ### Berikut tampilan program setelah dijalankan
 ![Gambar4](gambar4.png)
 
