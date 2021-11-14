@@ -3,15 +3,19 @@
 # Latihan1
 
 ## Program mengurutkan data dari yang terkecil berdasarkan data yang di input
+### Flowchart Program
+![Flowchart1](flowchart1.png)
 
+### Berikut tampilan program
 ![Gambar1](gambar1.png)
 
 ### Algoritma program
 
-1. a=input : - memasukan data 
-2. if a>b>c , print c,b,a : -Jika a>b>c maka tampilkan c,b,a 
-3. elif b>c>a , print a,c,b : -dan b>c>a maka tampilkan a,c,b 
-4. else , print Bilangan ada yang sama : -selain itu  maka tampilkan bilangan ada yang sama
+1. Mulai
+2. masukan data
+3. Proses Pengulangan 
+4. Tampilkan data
+5. selesai
 
 ### Penjelasan
  (kondisi if elif) merupakan lanjutan/percabangan logika dari "kondisi if". Dengan elif kita bisa membuat kode program yang akan menyeleksi beberapa kemungkinan yang bisa terjadi. Hampir sama dengan kondisi "else", bedanya kondisi "elif" bisa banyak dan tidak hanya satu. Percabangan If/Elif/Else digunakan apabila terdapat lebih dari dua pilihan keputusan.
@@ -56,7 +60,10 @@
 # Latihan4
 
 ## program untuk menampilkan bilangan terbesar dari n buah data yang diinputkan
+### flowchart program
+![flowchart2](flowchart2.png)
 
+### Berikut adalah tampilan program
 ![Gambar7](gambar7.png)
 ### Algoritma program
 1. mulai
@@ -87,6 +94,10 @@
 # Latihan5
 
 ## Program Sederhana Untuk Menghitung Jumlah Laba Hasil Investasi Seorang Pengusaha Selama 8 Bulan
+
+### Flowchart program
+![flowchart3](flowchart3.png)
+### Berikut adalah tampilan program
 
 ![Gambar9](gambar9.png)
 ### Algoritma program
